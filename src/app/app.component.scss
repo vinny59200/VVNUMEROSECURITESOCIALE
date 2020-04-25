@@ -1,0 +1,12 @@
+.wrapper{width:350px;}
+.box{float:left; height:10px;}
+.box:nth-child(1){
+   width:46%;
+
+}
+.box:nth-child(2){
+   width:39%;
+}
+.box:nth-child(3){
+   width:15%;
+}
